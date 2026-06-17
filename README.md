@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVwbDQxeTU4aGZ2NHpvNXg2NnA1dWZxNjQ5eDd4ZXZkNWZkZnphdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JJKs3I69qfaQleE/giphy.gif" />
 
 5th-year IDD student at **IIT (BHU) Varanasi**, Mechanical Engineering.
 
@@ -95,7 +95,7 @@ Mime performer — Rendezvous, IIT Delhi
 
 <div align="center">
 
-`suyash.kumar.mec22@itbhu.ac.in` &nbsp;·&nbsp; [sparrowjack234](https://github.com/sparrowjack234)
+`suyash.kumar.mec22@itbhu.ac.in`
 
 <br>
 
