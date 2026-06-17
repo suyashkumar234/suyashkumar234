@@ -20,7 +20,7 @@
 
 Currently a research intern at **INRIA Sophia Antipolis** (STARS & Epione teams), working on surgical video understanding and computer vision for robotic surgery.
 
-Long-term goal: PhD in computer vision → faculty.
+Long-term goal: PhD in computer vision, maybe faculty or maybe saving Gotham.
 
 > *"It's not who I am underneath,*  
 > *but what I do that defines me."*
