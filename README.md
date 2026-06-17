@@ -9,7 +9,7 @@ Currently a **Research Intern @ INRIA Sophia Antipolis** (STARS & Epione teams),
 
 Computer Vision · Medical Image Analysis · Surgical AI · Brain-Computer Interfaces · Self-Supervised Learning
 
-Long-term goal: PhD in computer vision, followed by a faculty career.
+Long-term goal: PhD in computer vision, followed by a faculty career or maybe something I don't know.
 
 ---
 
@@ -77,4 +77,3 @@ Mime performer — Rendezvous, IIT Delhi.
 ---
 
 📧 `suyash.kumar.mec22@itbhu.ac.in`  
-🔗 [sparrowjack234](https://github.com/sparrowjack234) *(personal GitHub)*
