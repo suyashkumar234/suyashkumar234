@@ -1,54 +1,67 @@
 <div align="center">
 
-```
-        /\     /\
-       /  \   /  \
-      / /\ \_/ /\ \
-     /_/  |   |  \_\
-          |   |
-       ▀▀▀▀▀▀▀▀▀▀▀
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=I+am+vengeance...;I+am+the+night...;I+am+Batman." alt="Typing SVG" />
 
-**Suyash Kumar**
+<br>
+
+# Suyash Kumar
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=888888&center=true&vCenter=true&width=500&lines=Computer+Vision+%C2%B7+Surgical+AI+%C2%B7+Medical+Imaging;IIT+(BHU)+Varanasi+%C2%B7+INRIA+Sophia+Antipolis;%22The+night+is+darkest+just+before+the+dawn.%22)](https://github.com/suyashkumar234)
 
 </div>
 
----
-
-5th-year IDD student at IIT (BHU) Varanasi, Mechanical Engineering. Currently a research intern at INRIA Sophia Antipolis (STARS & Epione teams) working on surgical video understanding and computer vision.
-
-> *"It's not who I am underneath, but what I do that defines me."*
+<br>
 
 ---
 
-## Work
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
-**INRIA Sophia Antipolis** · May–Aug 2026  
+5th-year IDD student at **IIT (BHU) Varanasi**, Mechanical Engineering.
+
+Currently a research intern at **INRIA Sophia Antipolis** (STARS & Epione teams), working on surgical video understanding and computer vision for robotic surgery.
+
+Long-term goal: PhD in computer vision → faculty.
+
+> *"It's not who I am underneath,*  
+> *but what I do that defines me."*
+> — Batman
+
+<br clear="right"/>
+
+---
+
+## 🦇 &nbsp;Work
+
+**INRIA Sophia Antipolis** &nbsp;·&nbsp; *May–Aug 2026*  
 Surgical video understanding for robotic surgery — phase recognition, error classification, VLMs, dataset preprocessing. Targeting COLAS @ MICCAI 2026.
 
-**Luleå University of Technology** · Sep–Nov 2025  
-EEG-based auditory attention decoding using deep learning for brain-computer interfaces. Participated in IEEE ICASSP 2026 Auditory EEG Decoding Challenge.
+**Luleå University of Technology** &nbsp;·&nbsp; *Sep–Nov 2025*  
+EEG-based auditory attention decoding for brain-computer interfaces. IEEE ICASSP 2026 challenge.
 
-**Indian Statistical Institute, Kolkata** · Feb–Sep 2025  
+**Indian Statistical Institute, Kolkata** &nbsp;·&nbsp; *Feb–Sep 2025*  
 Few-shot medical image segmentation using self-supervised learning, attention mechanisms, and knowledge distillation.
 
-**IIT Roorkee** · May–Jul 2023  
+**IIT Roorkee** &nbsp;·&nbsp; *May–Jul 2023*  
 Structural design and FEA of a radial dam gate.
 
-> *"Why so serious?"*
+<br>
+
+> *"Introduce a little anarchy. Upset the established order,*  
+> *and everything becomes chaos. I'm an agent of chaos."*  
+> — The Joker
 
 ---
 
-## Publication
+## 📄 &nbsp;Publication
 
-[Semi-Supervised Sperm Motility Classification Using WHO Kinematic Features and Domain-Adapted Detection on VISEM-Tracking](https://doi.org/10.5617/nmi.13362)  
+**[Semi-Supervised Sperm Motility Classification Using WHO Kinematic Features and Domain-Adapted Detection on VISEM-Tracking](https://doi.org/10.5617/nmi.13362)**  
 Nordic Machine Intelligence, Vol. 6 No. 3, April 2026
 
 ---
 
-## Repos
+## 🗃️ &nbsp;Repos
 
-| | |
+| Repo | What |
 |---|---|
 | [eeg-aad-1-2026](https://github.com/suyashkumar234/eeg-aad-1-2026) | ICASSP 2026 EEG-AAD · Cross-Subject |
 | [eeg-aad-2-2026](https://github.com/suyashkumar234/eeg-aad-2-2026) | ICASSP 2026 EEG-AAD · Cross-Session |
@@ -57,7 +70,7 @@ Nordic Machine Intelligence, Vol. 6 No. 3, April 2026
 
 ---
 
-## Stack
+## ⚙️ &nbsp;Stack
 
 ```python
 { "dl":    ["PyTorch", "TensorFlow", "MONAI"],
@@ -66,11 +79,14 @@ Nordic Machine Intelligence, Vol. 6 No. 3, April 2026
   "cad":   ["SolidWorks", "ANSYS"] }
 ```
 
-> *"Some men aren't looking for anything logical. Some men just want to watch the world learn."*
+<br>
+
+> *"Why so serious?"*  
+> — The Joker
 
 ---
 
-## Outside the lab
+## 🎭 &nbsp;Outside the lab
 
 Theatre director — *Dance Like a Man* (Mahesh Dattani) · Inter-IIT Culturals 2024  
 Mime performer — Rendezvous, IIT Delhi
@@ -79,8 +95,10 @@ Mime performer — Rendezvous, IIT Delhi
 
 <div align="center">
 
-`suyash.kumar.mec22@itbhu.ac.in` · [sparrowjack234](https://github.com/sparrowjack234)
+`suyash.kumar.mec22@itbhu.ac.in` &nbsp;·&nbsp; [sparrowjack234](https://github.com/sparrowjack234)
 
-*── batman commits at midnight ──*
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=400&lines=batman+commits+at+midnight;gotham+never+sleeps;neither+does+the+compiler" alt="footer" />
 
 </div>
